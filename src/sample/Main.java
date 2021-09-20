@@ -1,6 +1,6 @@
 package sample;
 
-import java.util.ArrayList;
+// https://github.com/ViniciusDev26/trabalho-poo-unifor/
 import java.util.Scanner;
 
 public class Main {
